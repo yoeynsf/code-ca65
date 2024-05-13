@@ -4,7 +4,7 @@ This extension provides syntax highlighting and problem matchers for use with th
 
 ## Features
 
-All 6502, 65816, and variant opcodes are supported by the syntax highlighter, as well as all ca65 pseudovariables, control commands, operators, and literals.
+All 6502, 65816, SPC700, and variant opcodes are supported by the syntax highlighter, as well as all ca65 pseudovariables, control commands, operators, and literals.
 
 ![Syntax Highlighting](images/highlighting.png)
 

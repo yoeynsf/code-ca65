@@ -126,6 +126,10 @@
 				"comment": "65816 Opcode Aliases",
 				"name": "keyword.other.opcode.ca65.65816",
 				"match": "\\b(?i:bge|blt|cpa|dea|ina|swa|tad|tas|tda|tsa)\\b"
+			}, {
+				"comment": "SPC700 Opcode Aliases",
+				"name": "keyword.other.opcode.ca65.SPC700",
+				"match": "\\b(?i:mov|movw|push|pop|or|addw|subw|cmpw|incw|decw|div|mul|clr1|set1|not1|mov1|or1|and1|eor1|clrc|setc|notc|clrv|daa|das|xcn|tclr1|tset1|bbs|bbc|cbne|dbnz|call|tcall|ret|ret1|/reset|sleep|stop|clrp|setp|ei|di)\\b"
 			}]
 		},
 		"pseudovars": {
